@@ -16,6 +16,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"这是克隆的项目");
+    
+    //这是一个克隆的项目啊
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
